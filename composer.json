@@ -1,0 +1,11 @@
+{
+    "name": "andsalves/phalcon-master-skeleton",
+    "type": "library",
+    "description": "A Complete Phalcon modular Skeleton",
+    "keywords": ["phalcon", "skeleton", "php", "phalconPHP", "modular", "best", "complete", "annotations", "router"],
+    "homepage": "https://github.com/andsalves",
+    "authors": [
+        {"name": "Anderson Alves Nunes de Freitas", "email": "ands.alves.nunes@gmail.com"}
+    ],
+    "minimum-stability": "dev"
+}
